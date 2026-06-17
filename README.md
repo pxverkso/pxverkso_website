@@ -1,2 +1,3 @@
-# pxverkso_website
-A personal website about me!
+# Pixel Paradise
+---
+## A personal website about me!
