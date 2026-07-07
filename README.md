@@ -1,6 +1,6 @@
 # Pixel Paradise
 ---
-## A personal website about me!
+## A personal website about me Made with HTML and Tailwind CSS!
 
 ![Project Logo](https://cdn.hackclub.com/019f3d8e-d749-7c3d-971c-076a1b458970/Screenshot%202026-07-07%20100815.png)
 
